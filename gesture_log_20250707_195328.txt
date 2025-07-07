@@ -1,0 +1,13 @@
+2025-07-07 19:54:03.151 - Detected: two_fingers, Action: right
+2025-07-07 19:54:07.593 - Detected: fist, Action: down
+2025-07-07 19:54:23.350 - Detected: one_finger, Action: left
+2025-07-07 19:54:26.024 - Detected: thumb_to_palm, Action: up
+2025-07-07 19:54:27.882 - Detected: two_fingers, Action: right
+2025-07-07 19:54:31.084 - Detected: fist, Action: down
+2025-07-07 19:54:43.340 - Detected: one_finger, Action: left
+2025-07-07 19:54:43.674 - Detected: two_fingers, Action: right
+2025-07-07 19:54:46.261 - Detected: one_finger, Action: left
+2025-07-07 19:54:57.857 - Detected: two_fingers, Action: right
+2025-07-07 19:55:03.409 - Detected: one_finger, Action: left
+2025-07-07 19:55:04.041 - Detected: two_fingers, Action: right
+2025-07-07 19:55:04.586 - Detected: fist, Action: down
